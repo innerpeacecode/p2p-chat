@@ -4,7 +4,15 @@ chat in.
 
 Run server:
 
+```
 $ link <port>
+```
+
+Command to the server over TCP:
+
+```
+$ telnet <host> <port>
+```
 
 
 Command to the server over TCP:
