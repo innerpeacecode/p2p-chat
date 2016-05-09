@@ -1,6 +1,4 @@
-A simple mutli-threaded chat server written in Haskell with support for
-user-to-user private messaging and channels which users can join and
-chat in.
+A simple mutli-threaded chat server written in Haskell 
 
 Run server:
 
@@ -13,11 +11,6 @@ Command to the server over TCP:
 ```
 $ telnet <host> <port>
 ```
-
-
-Command to the server over TCP:
-
-$ telnet <host> <port>
 
 
 Commands sent to the server:
