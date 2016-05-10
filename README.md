@@ -1,4 +1,4 @@
-A simple mutli-threaded chat server written in Haskell 
+A multithreaded chat system written in Haskell 
 
 Pre-requisite: Need Haskell Stack installed to run the program
 
