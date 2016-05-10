@@ -22,6 +22,6 @@ Commands sent to the server:
 - `MSG <username> <message>` Send a private message to a user
 - `JOIN <channel>` Join a channel
 - `LEAVE <channel>` Leave a channel
-
+- `TELL <channel> <message>` Send a message to a channel
 
 
