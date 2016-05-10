@@ -3,7 +3,7 @@ A simple mutli-threaded chat server written in Haskell
 Run server:
 
 ```
-$ link <port>
+$ link-exe <port>
 ```
 
 Command to the server over TCP:
