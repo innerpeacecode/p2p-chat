@@ -2,7 +2,7 @@ name:                link
 version:             0.1.0.0
 synopsis:            A simple multithreded chat server
 description:         --
-homepage:            https://github.com/innerpeacecode/IndividualProject-p2p
+homepage:            https://github.com/innerpeacecode/p2p-chat.git
 license:             --
 license-file:        --
 author:              Shaphat Silas Sundar
@@ -46,4 +46,4 @@ test-suite link-test
 
 source-repository head
   type:     git
-  location: https://github.com/innerpeacecode/IndividualProject-p2p
+  location: https://github.com/innerpeacecode/p2p-chat.git
